@@ -1,0 +1,3960 @@
+[
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "Alternate Dumbbell Bench Press",
+      "img": "assets/gifs/gogus/alternate-dumbell-bench-press.gif",
+      "ortak_antremanlar": "",
+      "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+      "bolge": "Göğüs",
+      "antreman": [
+        "4 x 8",
+        "3 x 8",
+        "4 x 12",
+        "4 x 15"
+      ],
+      "benzer_hareketler": [
+        ""
+      ]
+    },
+  {
+    "id": 2,
+    "categoryId": 1,
+    "name": "Band Standing Chest Press",
+    "img": "assets/gifs/gogus/band-standing-chest-press.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 3,
+    "categoryId": 1,
+    "name": "Barberll Bench Press",
+    "img": "assets/gifs/gogus/barberll-bench-press.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 4,
+    "categoryId": 1,
+    "name": "Cable Crossover",
+    "img": "assets/gifs/gogus/cable-crossover.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },  {
+  "id": 5,
+  "categoryId": 1,
+  "name": "Chest Dips",
+  "img": "assets/gifs/gogus/chest-dips.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+  "bolge": "Göğüs",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 6,
+    "categoryId": 1,
+    "name": "Chest Press Machine",
+    "img": "assets/gifs/gogus/chest-press-machine.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 7,
+    "categoryId": 1,
+    "name": "Close Grip Dumbbell Press",
+    "img": "assets/gifs/gogus/close-grip-dumbbell-press.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 8,
+    "categoryId": 1,
+    "name": "Close Grip Incline Dumbbell Press",
+    "img": "assets/gifs/gogus/close-grip-incline-dumbbell-press.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 9,
+    "categoryId": 1,
+    "name": "Decline Barbell Bench Press",
+    "img": "assets/gifs/gogus/decline-barbell-bench-press.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },  {
+  "id": 10,
+  "categoryId": 1,
+  "name": "Decline Dumbbell Press",
+  "img": "assets/gifs/gogus/decline-dumbbell-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+  "bolge": "Göğüs",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 11,
+    "categoryId": 1,
+    "name": "Dumbbell Fly",
+    "img": "assets/gifs/gogus/dumbbell-fly.gif",
+    "ortak_antremanlar": "",
+    "aciklama":"Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },{
+  "id": 12,
+  "categoryId": 1,
+  "name": "Dumbbell Press",
+  "img": "assets/gifs/gogus/dumbbell-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+  "bolge": "Göğüs",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 13,
+    "categoryId": 1,
+    "name": "Dumbbell Pullover",
+    "img": "assets/gifs/gogus/dumbbell-pullover.gif",
+    "ortak_antremanlar": "",
+    "aciklama":"Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 14,
+    "categoryId": 1,
+    "name": "Dumbbell Upward Fly",
+    "img": "assets/gifs/gogus/dumbbell-upward-fly.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },  {
+  "id": 15,
+  "categoryId": 1,
+  "name": "Hammer Press",
+  "img": "assets/gifs/gogus/hammer-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+  "bolge": "Göğüs",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 16,
+    "categoryId": 1,
+    "name": "High Cable Crosover",
+    "img": "assets/gifs/gogus/high-cable-crosover.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 17,
+    "categoryId": 1,
+    "name": "Incline Barbell Bench Press",
+    "img": "assets/gifs/gogus/incline-barbell-bench-press.gif",
+    "ortak_antremanlar": "",
+    "aciklama":"Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 18,
+    "categoryId": 1,
+    "name": "Incline Dumbbell Hammer Press",
+    "img": "assets/gifs/gogus/incline-dumbbel-hammer-press.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 19,
+    "categoryId": 1,
+    "name": "Incline Dumbbell Fly",
+    "img": "assets/gifs/gogus/incline-dumbbell-fly.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 20,
+    "categoryId": 1,
+    "name": "Incline Dumbbell Press",
+    "img": "assets/gifs/gogus/incline-dumbbell-press.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 21,
+    "categoryId": 1,
+    "name": "İnner Chest Press Machine",
+    "img": "assets/gifs/gogus/inner-chest-press-machine.gif",
+    "ortak_antremanlar": "",
+    "aciklama":"Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 22,
+    "categoryId": 1,
+    "name": "Lever Pec Deck Fly Chest",
+    "img": "assets/gifs/gogus/lever-pec-deck-fly_chest.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 23,
+    "categoryId": 1,
+    "name": "Low Cable Crosssover",
+    "img": "assets/gifs/gogus/low-cable-crossover.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],   "benzer_hareketler": [
+    ""
+  ]
+  },
+  {
+    "id": 24,
+    "categoryId": 1,
+    "name": "One Arm Cable Chest Press",
+    "img": "assets/gifs/gogus/one-arm-cable-chest-press.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 25,
+    "categoryId": 1,
+    "name": "One Arm Cable Fly",
+    "img": "assets/gifs/gogus/one-arm-decline-cable-fly.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 26,
+    "categoryId": 1,
+    "name": "Pec Deck Fly",
+    "img": "assets/gifs/gogus/pec-deck-fly.gif",
+    "ortak_antremanlar": "",
+    "aciklama":"Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 27,
+    "categoryId": 1,
+    "name": "Reverse Grip Dumbbell Bench Press",
+    "img": "assets/gifs/gogus/reverse-grip-dumbbell-bench-press.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 28,
+    "categoryId": 1,
+    "name": "Single Arm Cable Crossover",
+    "img": "assets/gifs/gogus/single-arm-cable-crossover.gif",
+    "ortak_antremanlar": "",
+    "aciklama":"Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 29,
+    "categoryId": 1,
+    "name": "Single Dumbbell Close Grip Press",
+    "img": "assets/gifs/gogus/single-dumbbell-close-grip-press.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+    "bolge": "Göğüs",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  }, {
+  "id": 30,
+  "categoryId": 1,
+  "name": "Svend Press",
+  "img": "assets/gifs/gogus/svend-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Göğüs kası, “pectoralis major” ve “pectoralis minor” denilen iki bölümden oluşur. Göğsü üst veya alt bölüm olarak çalıştırmak sanılanın aksine mümkün değildir. Herhangi bir göğüs egzersizi, göğüs kısmının tümünü çalıştırır, ancak ağırlığı farklı bölgelere vermek olasıdır. Bu da değişik göğüs egzersizlerine bağlı olarak gerçekleşebilir. Birbirinden farklı egzersizler, göğüs kaslarının alt ve üst kısmını daha çok çalıştırmaya yarar, fakat yine de kaslar bir bütün olarak çalışır.",
+  "bolge": "Göğüs",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 0,
+    "categoryId": 1,
+    "name": "",
+    "img": "",
+    "ortak_antremanlar": "",
+    "aciklama": "",
+    "bolge": "",
+    "antreman": [
+     ""
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },{
+  "id": 31,
+  "categoryId": 2,
+  "name": "Barbell Curl",
+  "img": "assets/gifs/kol/barbell-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 32,
+    "categoryId": 2,
+    "name": "Cable Curl",
+    "img": "assets/gifs/kol/cable-curl.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+    "bolge": "Kol",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 33,
+    "categoryId": 2,
+    "name": "Cable Preacher Curls",
+    "img": "assets/gifs/kol/cable-preacher-curls.gif",
+    "ortak_antremanlar": "",
+    "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+    "bolge": "Kol",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },{
+  "id": 34,
+  "categoryId": 2,
+  "name": "Cable Pulldown Bicep Curl",
+  "img": "assets/gifs/kol/cable-pulldown-bicep-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 35,
+  "categoryId": 2,
+  "name": "Cable Reverse Grip Ez Bar Biceps Curl",
+  "img": "assets/gifs/kol/cable-reverse-grip-ez-bar-biceps-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 36,
+  "categoryId": 2,
+  "name": "Cable Two Arm Curl On Incline",
+  "img": "assets/gifs/kol/cable-two-arm-curl-on-incline.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 37,
+  "categoryId": 2,
+  "name": "Close Grip Z Bar Curl",
+  "img": "assets/gifs/kol/close-grip-z-bar-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 38,
+  "categoryId": 2,
+  "name": "Concentration Curl",
+  "img": "assets/gifs/kol/concentration-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 39,
+    "categoryId": 2,
+    "name": "Dumbbell Curl",
+    "img": "assets/gifs/kol/dumbbell-curl.gif",
+    "ortak_antremanlar": "",
+    "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+    "bolge": "Kol",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },{
+  "id": 40,
+  "categoryId": 2,
+  "name": "Dumbbell High Curl",
+  "img": "assets/gifs/kol/dumbbell-high-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 41,
+  "categoryId": 2,
+  "name": "Dumbbell Preacher Curl",
+  "img": "assets/gifs/kol/dumbbell-preacher-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 42,
+  "categoryId": 2,
+  "name": "Dumbbell Reverse Curl",
+  "img": "assets/gifs/kol/dumbbell-reverse-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 43,
+    "categoryId": 2,
+    "name": "Dumbbell Scott Hammer Curl",
+    "img": "assets/gifs/kol/dumbble-scott-hammer-curl.gif",
+    "ortak_antremanlar": "",
+    "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+    "bolge": "Kol",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 44,
+    "categoryId": 2,
+    "name": "Dumbbell Preacher Hammer Curl",
+    "img": "assets/gifs/kol/dumbblell-preacher-hammer-curl.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+    "bolge": "Kol",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },{
+  "id": 45,
+  "categoryId": 2,
+  "name": "Dumbbell Alternate Precher Curl",
+  "img": "assets/gifs/kol/dumble-alternate-precher-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 46,
+  "categoryId": 2,
+  "name": "Flexor Incline Dumbbell Curls",
+  "img": "assets/gifs/kol/flexor-incline-dumbbell-curls.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 47,
+  "categoryId": 2,
+  "name": "Hammer Curl",
+  "img": "assets/gifs/kol/hammer-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 48,
+  "categoryId": 2,
+  "name": "High Cable Single Arm Bicep Curl",
+  "img": "assets/gifs/kol/high-cable-single-arm-bicep-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 49,
+    "categoryId": 2,
+    "name": "Lever Biceps Curl",
+    "img": "assets/gifs/kol/lever-biceps-curl.gif",
+    "ortak_antremanlar": "",
+    "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+    "bolge": "Kol",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },{
+  "id": 50,
+  "categoryId": 2,
+  "name": "Lying Cable Curl",
+  "img": "assets/gifs/kol/lying-cable-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 51,
+  "categoryId": 2,
+  "name": "One Arm Cable Curl",
+  "img": "assets/gifs/kol/one-arm-cable-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 52,
+  "categoryId": 2,
+  "name": "Overhead Cable Curl",
+  "img": "assets/gifs/kol/overhead-cable-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 53,
+  "categoryId": 2,
+  "name": "Reverse Grip Ez Bar Curl",
+  "img": "assets/gifs/kol/reverse-grip-ez-bar-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 54,
+  "categoryId": 2,
+  "name": "Rope Bicep Curls",
+  "img": "assets/gifs/kol/rope-bicep-curls.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 55,
+  "categoryId": 2,
+  "name": "Seated Biceps Curl",
+  "img": "assets/gifs/kol/seated-biceps-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 56,
+  "categoryId": 2,
+  "name": "Seated Close Grip Concentration",
+  "img": "assets/gifs/kol/seated-close-grip concentration.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 57,
+  "categoryId": 2,
+  "name": "Seated Hammer Curl",
+  "img": "assets/gifs/kol/seated-hammer-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 58,
+  "categoryId": 2,
+  "name": "Seated Incline Dumbbell Curl",
+  "img": "assets/gifs/kol/seated-incline-dumbbell-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 59,
+  "categoryId": 2,
+  "name": "Single Dumbbell Spider Hammer Curl",
+  "img": "assets/gifs/kol/single-dumbbell-spider-hammer-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 60,
+  "categoryId": 2,
+  "name": "Z Bar Curl",
+  "img": "assets/gifs/kol/z-bar-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 61,
+  "categoryId": 2,
+  "name": "Z Bar Preacher Curl",
+  "img": "assets/gifs/kol/z-bar-preacher-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 62,
+  "categoryId": 2,
+  "name": "Zottman Curl",
+  "img": "assets/gifs/kol/zottman-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Pazu veya biceps omuz ve dirsek arasındaki üst kolun önünde yer alan büyük bir kas. Kasın her iki başı da skapula üzerinde ortaya çıkar ve üst önkola bağlı tek bir kas gövdesi oluşturmak üzere birleşir.",
+  "bolge": "Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 0,
+  "categoryId": 2,
+  "name": "",
+  "img": "",
+  "ortak_antremanlar": "",
+  "aciklama": "",
+  "bolge": "",
+  "antreman": [
+    ""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 63,
+  "categoryId": 3,
+  "name": "Barbell Triceps Extension",
+  "img": "assets/gifs/arka_kol/barbell-triceps-extension.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 64,
+  "categoryId": 3,
+  "name": "Bench Dips",
+  "img": "assets/gifs/arka_kol/bench-dips.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 65,
+  "categoryId": 3,
+  "name": "Bent Over Tricep Kickback",
+  "img": "assets/gifs/arka_kol/bent-over-tricep-kickback.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 66,
+  "categoryId": 3,
+  "name": "Cable One Arm Overhead Triceps Extension",
+  "img": "assets/gifs/arka_kol/cable-one-arm-overhead-triceps-extension.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 67,
+  "categoryId": 3,
+  "name": "Cable Rear Drive",
+  "img": "assets/gifs/arka_kol/cable-rear-drive.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 68,
+  "categoryId": 3,
+  "name": "Cable Triceps Kickback",
+  "img": "assets/gifs/arka_kol/Cable-Tricep-Kickback.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 69,
+  "categoryId": 3,
+  "name": "Decline Close Grip Bench To Skull Crusher",
+  "img": "assets/gifs/arka_kol/decline-close-grip-bench-to-skull-crusher.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 70,
+  "categoryId": 3,
+  "name": "Decline Dumbbell Triceps Extension",
+  "img": "assets/gifs/arka_kol/decline-dumbbell-triceps-extension.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 71,
+  "categoryId": 3,
+  "name": "Dumbbell Incline Two Arm Extension",
+  "img": "assets/gifs/arka_kol/dumbbell-incline-two-arm-extension.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 72,
+  "categoryId": 3,
+  "name": "Dumbbell Kickback",
+  "img": "assets/gifs/arka_kol/dumbbell-kickback.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 73,
+  "categoryId": 3,
+  "name": "Dumbbell Skull Crusher",
+  "img": "assets/gifs/arka_kol/dumbbell-skull-crusher.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 74,
+    "categoryId": 3,
+    "name": "Dumbbell Tate Press",
+    "img": "assets/gifs/arka_kol/dumbbell-tate-press.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+    "bolge": "Arka Kol",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },{
+  "id": 75,
+  "categoryId": 3,
+  "name": "Dumbbell Triceps Extension",
+  "img": "assets/gifs/arka_kol/dumbbell-triceps-extension.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 76,
+  "categoryId": 3,
+  "name": "High Pulley  Overhead Triceps Extension",
+  "img": "assets/gifs/arka_kol/high-pulley-overhead-tricep-extension.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 77,
+  "categoryId": 3,
+  "name": "Ez Barbell Incline Triceps Extension",
+  "img": "assets/gifs/arka_kol/EZ-Barbell-Incline-Triceps-Extension.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 78,
+  "categoryId": 3,
+  "name": "Kneeling Cable Triceps Extension",
+  "img": "assets/gifs/arka_kol/kneeling-cable-triceps-extension.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 79,
+  "categoryId": 3,
+  "name": "One Arm Pronated Dumbbell Triceps Extension",
+  "img": "assets/gifs/arka_kol/one-arm-pronated-dumbbell-triceps-extension.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 80,
+  "categoryId": 3,
+  "name": "Pushdown",
+  "img": "assets/gifs/arka_kol/pushdown.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 81,
+  "categoryId": 3,
+  "name": "Reverse Grip Pushdown",
+  "img": "assets/gifs/arka_kol/reverse-grip-pushdown.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 82,
+  "categoryId": 3,
+  "name": "Rope Pushdown",
+  "img": "assets/gifs/arka_kol/rope-pushdown.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 83,
+  "categoryId": 3,
+  "name": "Seated Dumbbell Triceps Extension",
+  "img": "assets/gifs/arka_kol/seated-dumbbell-triceps-extension.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 84,
+  "categoryId": 3,
+  "name": "Seated Ez Bar Overhead Triceps Extension",
+  "img": "assets/gifs/arka_kol/seated-ez-bar-overhead-triceps-extension.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 85,
+  "categoryId": 3,
+  "name": "Seated One Arm Dumbbell Triceps Extension",
+  "img": "assets/gifs/arka_kol/seated-one-arm-dumbbell-triceps-extension.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 86,
+  "categoryId": 3,
+  "name": "Standing Barbell Triceps Extension",
+  "img": "assets/gifs/arka_kol/standing-barbell-triceps-extension.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 87,
+  "categoryId": 3,
+  "name": "Triceps Dips",
+  "img": "assets/gifs/arka_kol/triceps-dips.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 88,
+  "categoryId": 3,
+  "name": "Triceps Dips On Floor",
+  "img": "assets/gifs/arka_kol/triceps-dips-on-floor.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Triseps  birçok omurgalının üst ekstremitesinin arkasında bulunan büyük bir kastır . 3 bölümden oluşur: medial, lateral ve uzun kafa. Dirsek ekleminin ekstansiyonundan ( kolun düzleşmesi) başlıca sorumlu kastır .",
+  "bolge": "Arka Kol",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 0,
+  "categoryId": 3,
+  "name": "",
+  "img": "",
+  "ortak_antremanlar": "",
+  "aciklama": "",
+  "bolge": "",
+  "antreman": [
+    ""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 89,
+  "categoryId": 4,
+  "name": "Assisted Pull Up",
+  "img": "assets/gifs/sirt/assisted-pull-up.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 90,
+  "categoryId": 4,
+  "name": "Barbell Bent Over Row",
+  "img": "assets/gifs/sirt/barbell-bent-over-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 91,
+  "categoryId": 4,
+  "name": "Barbell Deadlift",
+  "img": "assets/gifs/sirt/barbell-deadlift.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 92,
+  "categoryId": 4,
+  "name": "Bent Over Dumbbell Row",
+  "img": "assets/gifs/sirt/bent-over-dumbbell-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 93,
+  "categoryId": 4,
+  "name": "Cable Bent Over Row",
+  "img": "assets/gifs/sirt/cable-bent-over-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 94,
+  "categoryId": 4,
+  "name": "Cable One Arm LAt Pulldown",
+  "img": "assets/gifs/sirt/cable-one-arm-lat-pulldown.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 95,
+  "categoryId": 4,
+  "name": "Cable Rear Pulldown",
+  "img": "assets/gifs/sirt/cable-rear-pulldown.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 96,
+  "categoryId": 4,
+  "name": "Cable Straight Arm Pulldown",
+  "img": "assets/gifs/sirt/cable-straight-arm-pulldown.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 97,
+  "categoryId": 4,
+  "name": "Cable Twisting Standing High Row",
+  "img": "assets/gifs/sirt/cable-twisting-standing-high-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 98,
+  "categoryId": 4,
+  "name": "Close Grip Cable Row",
+  "img": "assets/gifs/sirt/close-grip-cable-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 99,
+  "categoryId": 4,
+  "name": "Degree Incline Row ",
+  "img": "assets/gifs/sirt/degree-incline-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 100,
+  "categoryId": 4,
+  "name": "Dumbbell Bent Over Reverse Row ",
+  "img": "assets/gifs/sirt/dumbbell-bent-over-reverse-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 101,
+  "categoryId": 4,
+  "name": "Dumbbell Row ",
+  "img": "assets/gifs/sirt/dumbbell-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 102,
+  "categoryId": 4,
+  "name": "Half Kneeling Lat Pulldown",
+  "img": "assets/gifs/sirt/half-kneeling-lat-pulldown.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 103,
+  "categoryId": 4,
+  "name": "Hyperextension",
+  "img": "assets/gifs/sirt/hyperextension.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 104,
+  "categoryId": 4,
+  "name": "Incline Barbell Row",
+  "img": "assets/gifs/sirt/incline-barbell-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 105,
+  "categoryId": 4,
+  "name": "Incline Cable Row",
+  "img": "assets/gifs/sirt/incline-cable-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 106,
+  "categoryId": 4,
+  "name": "Incline Reverse Grip Dumbbell Row",
+  "img": "assets/gifs/sirt/incline-reverse-grip-dumbell-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 107,
+  "categoryId": 4,
+  "name": "Kneeling High Pulley Row",
+  "img": "assets/gifs/sirt/kneeling-high-pulley-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 108,
+  "categoryId": 4,
+  "name": "Lat Pulldown",
+  "img": "assets/gifs/sirt/lat-pulldown.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 109,
+  "categoryId": 4,
+  "name": "One Arm Barbell Row",
+  "img": "assets/gifs/sirt/one-arm-barbell-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 110,
+  "categoryId": 4,
+  "name": "One Arm Cable Row",
+  "img": "assets/gifs/sirt/one-arm-cable-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 111,
+  "categoryId": 4,
+  "name": "Pull Up",
+  "img": "assets/gifs/sirt/pull-up.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 112,
+  "categoryId": 4,
+  "name": "Rear Delt Machiner Flys",
+  "img": "assets/gifs/sirt/rear-delt-machine-flys.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 113,
+  "categoryId": 4,
+  "name": "Reverse Grip Barbell Row",
+  "img": "assets/gifs/sirt/reverse-grip-barbell-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 114,
+  "categoryId": 4,
+  "name": "Reverse Lat Pulldown",
+  "img": "assets/gifs/sirt/reverse-lat-pulldown.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 115,
+  "categoryId": 4,
+  "name": "Rope Straight Arm Pulldown",
+  "img": "assets/gifs/sirt/rope-straight-arm-pulldown.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 116,
+  "categoryId": 4,
+  "name": "Seated Cable Row",
+  "img": "assets/gifs/sirt/seated-cable-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 117,
+  "categoryId": 4,
+  "name": "Seated Row Machine",
+  "img": "assets/gifs/sirt/seated-row-machine.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 118,
+  "categoryId": 4,
+  "name": "Single Arm Twisting Seated Cable Row",
+  "img": "assets/gifs/sirt/single-arm-twisting-seated-cable-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 119,
+  "categoryId": 4,
+  "name": "Smith Machine Bent Over Row",
+  "img": "assets/gifs/sirt/smith-machine-bent-over-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 120,
+  "categoryId": 4,
+  "name": "V Bar Lat Pulldown",
+  "img": "assets/gifs/sirt/v-bar-lat-pulldown.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Trapezius kasları, omuzlar arasında, sırtın üst kısmında bulunan büyük üçgen kaslardır. Bunları yukarı, orta ve aşağı trapezius olarak ayırabilirsiniz. İşlevi, omurga sabit olduğunda kürek kemiklerini hareket ettirmek veya kürek kemikleri sabitken omurgayı hareket ettirmektir.",
+  "bolge": "Sırt",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 0,
+  "categoryId": 4,
+  "name": "",
+  "img": "",
+  "ortak_antremanlar": "",
+  "aciklama": "",
+  "bolge": "",
+  "antreman": [
+    ""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 121,
+    "categoryId": 5,
+    "name": "Arnold Press",
+    "img": "assets/gifs/omuz/arnold-press.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+    "bolge": "Omuz",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },{
+  "id": 122,
+  "categoryId": 5,
+  "name": "Barbell Military",
+  "img": "assets/gifs/omuz/barbell-military.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 123,
+  "categoryId": 5,
+  "name": "Barbell Rear Delt Raise",
+  "img": "assets/gifs/omuz/barbell-rear-delt-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 124,
+  "categoryId": 5,
+  "name": "Barbell Soulder Press",
+  "img": "assets/gifs/omuz/barbell-shoulder-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 125,
+  "categoryId": 5,
+  "name": "Barbell Upright Row",
+  "img": "assets/gifs/omuz/barbell-upright-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 126,
+  "categoryId": 5,
+  "name": "Battle Rope",
+  "img": "assets/gifs/omuz/battle-rope.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 127,
+  "categoryId": 5,
+  "name": "Bent Over Lateral Raise",
+  "img": "assets/gifs/omuz/bent-over-lateral-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 128,
+  "categoryId": 5,
+  "name": "Cable Lateral Raise",
+  "img": "assets/gifs/omuz/cable-lateral-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 129,
+  "categoryId": 5,
+  "name": "Cable Upright Row",
+  "img": "assets/gifs/omuz/cable-upright-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 130,
+  "categoryId": 5,
+  "name": "Double Cable Front Raise",
+  "img": "assets/gifs/omuz/double-cable-front-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 131,
+  "categoryId": 5,
+  "name": "Dumbbell Bent Arm Laterl Raise",
+  "img": "assets/gifs/omuz/dumbbell-bent-arm-laterl-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 132,
+  "categoryId": 5,
+  "name": "Dumbbell Cuban Press",
+  "img": "assets/gifs/omuz/dumbbell-cuban-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 133,
+  "categoryId": 5,
+  "name": "Dumbbell Lateral Raise",
+  "img": "assets/gifs/omuz/dumbbell-lateral-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 134,
+  "categoryId": 5,
+  "name": "Dumbbell Lateral To Front Raise",
+  "img": "assets/gifs/omuz/dumbbell-lateral-to-front-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 135,
+  "categoryId": 5,
+  "name": "Dumbbell Lying One Arm Rear Lateral Raise ",
+  "img": "assets/gifs/omuz/dumbbell-lying-one-arm-rear-lateral-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 136,
+  "categoryId": 5,
+  "name": "Dumbbell One Arm Shoulder Press",
+  "img": "assets/gifs/omuz/dumbbell-one-arm-shoulder-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 137,
+  "categoryId": 5,
+  "name": "Dumbbell Rear Delt Row",
+  "img": "assets/gifs/omuz/dumbbell-rear-delt-row.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 138,
+  "categoryId": 5,
+  "name": "Dumbbell Reverse Fly",
+  "img": "assets/gifs/omuz/dumbbell-reverse-fly.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 139,
+  "categoryId": 5,
+  "name": "Dumbbell Scaption",
+  "img": "assets/gifs/omuz/dumbbell-scaption.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 140,
+  "categoryId": 5,
+  "name": "Dumbbell Seated Cuban Press",
+  "img": "assets/gifs/omuz/dumbbell-seated-cuban-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 141,
+  "categoryId": 5,
+  "name": "Dumbbell Shoulder Press",
+  "img": "assets/gifs/omuz/dumbbell-shoulder-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 142,
+  "categoryId": 5,
+  "name": "Dumbbell Shrug",
+  "img": "assets/gifs/omuz/dumbbell-shrug.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 143,
+    "categoryId": 5,
+    "name": "Dumbbell Upright Row",
+    "img": "assets/gifs/omuz/dumbbell-upright-row.gif",
+    "ortak_antremanlar": "",
+    "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+    "bolge": "Omuz",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  }, {
+  "id": 144,
+  "categoryId": 5,
+  "name": "Dumbbell W Press",
+  "img": "assets/gifs/omuz/dumbbell-w-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 145,
+  "categoryId": 5,
+  "name": "Face Pull",
+  "img": "assets/gifs/omuz/face-pull.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 146,
+  "categoryId": 5,
+  "name": "Half Arnold Press",
+  "img": "assets/gifs/omuz/half-arnold-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 147,
+  "categoryId": 5,
+  "name": "Half Kneeling High Cable Row Rope",
+  "img": "assets/gifs/omuz/half-kneeling-high-cable-row-rope.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 148,
+  "categoryId": 5,
+  "name": "Incline Dumbbell Y Raise",
+  "img": "assets/gifs/omuz/incline-dumbbell-y-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 149,
+  "categoryId": 5,
+  "name": "Incline Front Raise",
+  "img": "assets/gifs/omuz/incline-front-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 150,
+  "categoryId": 5,
+  "name": "Leaning Cable Lateral Raise",
+  "img": "assets/gifs/omuz/leaning-cable-lateral-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 151,
+  "categoryId": 5,
+  "name": "Lever Shoulder Press",
+  "img": "assets/gifs/omuz/lever-shoulder-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 152,
+  "categoryId": 5,
+  "name": "Lever Shrug",
+  "img": "assets/gifs/omuz/lever-shrug.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 153,
+  "categoryId": 5,
+  "name": "Seated Behind The Neck Press",
+  "img": "assets/gifs/omuz/seated-behind-the-neck-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 154,
+  "categoryId": 5,
+  "name": "Seated Dumbbell Lateral Raise",
+  "img": "assets/gifs/omuz/seated-dumbbell-lateral-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 155,
+  "categoryId": 5,
+  "name": "Seated Rear Lateral Dumbbell Raise",
+  "img": "assets/gifs/omuz/seated-rear-lateral-dumbbell-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 156,
+  "categoryId": 5,
+  "name": "Smith Machine Behind Neck Press",
+  "img": "assets/gifs/omuz/smith-machine-behind-neck-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 157,
+  "categoryId": 5,
+  "name": "Standing Alternating Dumbbell Shoulder Press",
+  "img": "assets/gifs/omuz/standing-alternating-dumbbell-shoulder-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 158,
+  "categoryId": 5,
+  "name": "Two Arm Cable Front Raise",
+  "img": "assets/gifs/omuz/two-arm-cable-front-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 159,
+  "categoryId": 5,
+  "name": "Two Arm Cable Lateral Raise",
+  "img": "assets/gifs/omuz/two-arm-cable-lateral-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 160,
+  "categoryId": 5,
+  "name": "Two Arm Dumbbell Front Raise",
+  "img": "assets/gifs/omuz/two-arm-dumbbell-front-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 161,
+  "categoryId": 5,
+  "name": "Weight Plate Front Raise",
+  "img": "assets/gifs/omuz/weight-plate-front-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 161,
+  "categoryId": 5,
+  "name": "Weighted Round Arm",
+  "img": "assets/gifs/omuz/weighted-round-arm.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Deltoid (omuz) kasları, omuz ekleminin her yöne hareket etmesini sağlayan çok yönlü bir kas grubudur. Deltoid kası anterior (ön), lateral (yan) ve posterior (arka) olmak üzere 3 bölüme ayrılır.",
+  "bolge": "Omuz",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 0,
+    "categoryId": 5,
+    "name": "",
+    "img": "",
+    "ortak_antremanlar": "",
+    "aciklama": "",
+    "bolge": "",
+    "antreman": [
+      ""
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 162,
+    "categoryId": 6,
+    "name": "Barbell Front Squat",
+    "img": "assets/gifs/bacak/barbell front squat.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+    "bolge": "Bacak",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },{
+  "id": 163,
+  "categoryId": 6,
+  "name": "Barbell Bulgarian Split Squat",
+  "img": "assets/gifs/bacak/barbell-bulgarian-split-squat.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 164,
+  "categoryId": 6,
+  "name": "Barbell Deadlift",
+  "img": "assets/gifs/bacak/barbell-deadlift.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 165,
+  "categoryId": 6,
+  "name": "Barbell Hack Squat",
+  "img": "assets/gifs/bacak/barbell-hack-squat.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 166,
+  "categoryId": 6,
+  "name": "Barbell Lateral Lunge",
+  "img": "assets/gifs/bacak/barbell-lateral-lunge.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 167,
+  "categoryId": 6,
+  "name": "Barbell Lunge",
+  "img": "assets/gifs/bacak/barbell-lunge.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 168,
+  "categoryId": 6,
+  "name": "Barbell Squat",
+  "img": "assets/gifs/bacak/barbell-squat.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 169,
+  "categoryId": 6,
+  "name": "Barbell Sumo Deadlift",
+  "img": "assets/gifs/bacak/barbell-sumo-deadlift.gif",
+  "ortak_antremanlar": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "aciklama": "",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 170,
+  "categoryId": 6,
+  "name": "Barbell Sumo Squat",
+  "img": "assets/gifs/bacak/barbell-sumo-squat.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 171,
+  "categoryId": 6,
+  "name": "Cable Forward Lunge",
+  "img": "assets/gifs/bacak/cable-forward-lunge.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 172,
+    "categoryId": 6,
+    "name": "Cable Lunge",
+    "img": "assets/gifs/bacak/cable-lunge.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+    "bolge": "Bacak",
+    "antreman": [
+      "4 x 8",
+      "3 x 8",
+      "4 x 12",
+      "4 x 15"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },{
+  "id": 173,
+  "categoryId": 6,
+  "name": "Cossack Squat",
+  "img": "assets/gifs/bacak/cossack-squat.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 174,
+  "categoryId": 6,
+  "name": "Dumbbell Bulgarian Split Squat",
+  "img": "assets/gifs/bacak/dumbbell-bulgarian-split-squat.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 175,
+  "categoryId": 6,
+  "name": "Dumbbell Curtsey Lunge",
+  "img": "assets/gifs/bacak/dumbbell-goblet-curtsey-lunge.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 176,
+  "categoryId": 6,
+  "name": "Dumbbell Rear Lunge",
+  "img": "assets/gifs/bacak/dumbbell-rear-lunge.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 177,
+  "categoryId": 6,
+  "name": "Front Squat",
+  "img": "assets/gifs/bacak/front-squat.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 178,
+  "categoryId": 6,
+  "name": "Hack Machine One Leg Calf Raise",
+  "img": "assets/gifs/bacak/hack-machine-one-leg-calf-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 179,
+  "categoryId": 6,
+  "name": "Hack Squat Calf Raise",
+  "img": "assets/gifs/bacak/hack-squat-calf-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 180,
+  "categoryId": 6,
+  "name": "High Knee Run",
+  "img": "assets/gifs/bacak/high-knee-run.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 181,
+  "categoryId": 6,
+  "name": "Leg Curl",
+  "img": "assets/gifs/bacak/leg-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 182,
+  "categoryId": 6,
+  "name": "Leg Extension",
+  "img": "assets/gifs/bacak/leg-extension.gif",
+  "ortak_antremanlar": "",
+  "aciklama":"Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 183,
+  "categoryId": 6,
+  "name": "Leg Press",
+  "img": "assets/gifs/bacak/leg-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 184,
+  "categoryId": 6,
+  "name": "Lever Horizontal Leg Press",
+  "img": "assets/gifs/bacak/lever-horizontal-leg-press.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 185,
+  "categoryId": 6,
+  "name": "Lever Side Hip Adduction",
+  "img": "assets/gifs/bacak/lever-side-hip-adduction.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 186,
+  "categoryId": 6,
+  "name": "Seated Leg Curl",
+  "img": "assets/gifs/bacak/seated-leg-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 187,
+  "categoryId": 6,
+  "name": "Sled Hack Squat",
+  "img": "assets/gifs/bacak/sled-hack-squat.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bacak Kasları  İlk bölüm Üst Bacağın Ön Tarafı yani  Quadriceps Femorisi , İkinci bölüm Üst Bacağın Arka Tarafı yani Hamstring Muscle kası ve son olarak Alt Bacak yani Calf Bölgesi \n Üst Ön Bacak Kaslarımız 4 ayrı bölümden oluşmak ile birlikte Quadriceps Femoris ve Adduktor kaslarımız kendi içinde ayrılmışlardır. \n Üst Arka Bacak Kaslarımız tek  bir kasın kendi içinde bölümleri ayrılması ile oluşur.\n Calf  alt bacak iki farklı kasın birleşiminden oluşur.",
+  "bolge": "Bacak",
+  "antreman": [
+    "4 x 8",
+    "3 x 8",
+    "4 x 12",
+    "4 x 15"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 0,
+    "categoryId": 6,
+    "name": "",
+    "img": "",
+    "ortak_antremanlar": "",
+    "aciklama": "",
+    "bolge": "",
+    "antreman": [
+      ""
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 188,
+    "categoryId": 7,
+    "name": "Barbell Reverse Wrist Curl",
+    "img": "assets/gifs/bilek/barbell-reverse-wrist-curl.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Bilek kaslarınız, dirsek ekleminden başlayarak el bileğinize kadar uzanan çeşitli kaslardan oluşmaktadır. Vücudunuzda önemli sayılabilecek kas gruplarından yer almaktadır. El kaslarınızın ve el eklemlerinizin de çalışmasına yardımcı olan önemli kaslardandır. Önemli tendonlarla birleşerek, kol ve ellerinizin temel hareketlerini yapmanıza yardımcı olmaktadır. Bilek kas grubu kendi içinde 6’ya ayrılmaktadır. \n 1- Brachioradiallis  2- Extensor carpi radialis longus and brevis 3- Extensor digitorum 4- Extensor digit minimi 5- Extensor carpi  uinaris 6- Anconeus",
+    "bolge": "Bilek",
+    "antreman": [
+      "4 x max",
+      "3 x max",
+      "4 x max",
+      "3 x max"
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },{
+  "id": 189,
+  "categoryId": 7,
+  "name": "Barbell Wrist Curl",
+  "img": "assets/gifs/bilek/barbell-wrist-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Bilek kaslarınız, dirsek ekleminden başlayarak el bileğinize kadar uzanan çeşitli kaslardan oluşmaktadır. Vücudunuzda önemli sayılabilecek kas gruplarından yer almaktadır. El kaslarınızın ve el eklemlerinizin de çalışmasına yardımcı olan önemli kaslardandır. Önemli tendonlarla birleşerek, kol ve ellerinizin temel hareketlerini yapmanıza yardımcı olmaktadır. Bilek kas grubu kendi içinde 6’ya ayrılmaktadır. \n 1- Brachioradiallis  2- Extensor carpi radialis longus and brevis 3- Extensor digitorum 4- Extensor digit minimi 5- Extensor carpi  uinaris 6- Anconeus",
+  "bolge": "Bilek",
+  "antreman": [
+    "4 x max",
+    "3 x max",
+    "4 x max",
+    "3 x max"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 190,
+  "categoryId": 7,
+  "name": "Behind The Back Barbell Wrist Curl",
+  "img": "assets/gifs/bilek/behind-the-back-barbell-wrist-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Bilek kaslarınız, dirsek ekleminden başlayarak el bileğinize kadar uzanan çeşitli kaslardan oluşmaktadır. Vücudunuzda önemli sayılabilecek kas gruplarından yer almaktadır. El kaslarınızın ve el eklemlerinizin de çalışmasına yardımcı olan önemli kaslardandır. Önemli tendonlarla birleşerek, kol ve ellerinizin temel hareketlerini yapmanıza yardımcı olmaktadır. Bilek kas grubu kendi içinde 6’ya ayrılmaktadır. \n 1- Brachioradiallis  2- Extensor carpi radialis longus and brevis 3- Extensor digitorum 4- Extensor digit minimi 5- Extensor carpi  uinaris 6- Anconeus",
+  "bolge": "Bilek",
+  "antreman": [
+    "4 x max",
+    "3 x max",
+    "4 x max",
+    "3 x max"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 191,
+  "categoryId": 7,
+  "name": "Cable One Arm Wrist Curl On Floor",
+  "img": "assets/gifs/bilek/cable-one-arm-wrist-curl-on-floor.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Bilek kaslarınız, dirsek ekleminden başlayarak el bileğinize kadar uzanan çeşitli kaslardan oluşmaktadır. Vücudunuzda önemli sayılabilecek kas gruplarından yer almaktadır. El kaslarınızın ve el eklemlerinizin de çalışmasına yardımcı olan önemli kaslardandır. Önemli tendonlarla birleşerek, kol ve ellerinizin temel hareketlerini yapmanıza yardımcı olmaktadır. Bilek kas grubu kendi içinde 6’ya ayrılmaktadır. \n 1- Brachioradiallis  2- Extensor carpi radialis longus and brevis 3- Extensor digitorum 4- Extensor digit minimi 5- Extensor carpi  uinaris 6- Anconeus",
+  "bolge": "Bilek",
+  "antreman": [
+    "4 x max",
+    "3 x max",
+    "4 x max",
+    "3 x max"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 192,
+  "categoryId": 7,
+  "name": "Dumbbell Seated Neutral Wrist Curl",
+  "img": "assets/gifs/bilek/dumbbell-seated-neutral-wrist-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Bilek kaslarınız, dirsek ekleminden başlayarak el bileğinize kadar uzanan çeşitli kaslardan oluşmaktadır. Vücudunuzda önemli sayılabilecek kas gruplarından yer almaktadır. El kaslarınızın ve el eklemlerinizin de çalışmasına yardımcı olan önemli kaslardandır. Önemli tendonlarla birleşerek, kol ve ellerinizin temel hareketlerini yapmanıza yardımcı olmaktadır. Bilek kas grubu kendi içinde 6’ya ayrılmaktadır. \n 1- Brachioradiallis  2- Extensor carpi radialis longus and brevis 3- Extensor digitorum 4- Extensor digit minimi 5- Extensor carpi  uinaris 6- Anconeus",
+  "bolge": "Bilek",
+  "antreman": [
+    "4 x max",
+    "3 x max",
+    "4 x max",
+    "3 x max"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 193,
+  "categoryId": 7,
+  "name": "Dumbbell Wrist Curl",
+  "img": "assets/gifs/bilek/dumbbell-wrist-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Bilek kaslarınız, dirsek ekleminden başlayarak el bileğinize kadar uzanan çeşitli kaslardan oluşmaktadır. Vücudunuzda önemli sayılabilecek kas gruplarından yer almaktadır. El kaslarınızın ve el eklemlerinizin de çalışmasına yardımcı olan önemli kaslardandır. Önemli tendonlarla birleşerek, kol ve ellerinizin temel hareketlerini yapmanıza yardımcı olmaktadır. Bilek kas grubu kendi içinde 6’ya ayrılmaktadır. \n 1- Brachioradiallis  2- Extensor carpi radialis longus and brevis 3- Extensor digitorum 4- Extensor digit minimi 5- Extensor carpi  uinaris 6- Anconeus",
+  "bolge": "Bilek",
+  "antreman": [
+    "4 x max",
+    "3 x max",
+    "4 x max",
+    "3 x max"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 194,
+  "categoryId": 7,
+  "name": "Reverse Wrist Curl",
+  "img": "assets/gifs/bilek/reverse-wrist-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bilek kaslarınız, dirsek ekleminden başlayarak el bileğinize kadar uzanan çeşitli kaslardan oluşmaktadır. Vücudunuzda önemli sayılabilecek kas gruplarından yer almaktadır. El kaslarınızın ve el eklemlerinizin de çalışmasına yardımcı olan önemli kaslardandır. Önemli tendonlarla birleşerek, kol ve ellerinizin temel hareketlerini yapmanıza yardımcı olmaktadır. Bilek kas grubu kendi içinde 6’ya ayrılmaktadır. \n 1- Brachioradiallis  2- Extensor carpi radialis longus and brevis 3- Extensor digitorum 4- Extensor digit minimi 5- Extensor carpi  uinaris 6- Anconeus",
+  "bolge": "Bilek",
+  "antreman": [
+    "4 x max",
+    "3 x max",
+    "4 x max",
+    "3 x max"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 195,
+  "categoryId": 7,
+  "name": "Weighted Wrist Curl",
+  "img": "assets/gifs/bilek/weighted-wrist-curl.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Bilek kaslarınız, dirsek ekleminden başlayarak el bileğinize kadar uzanan çeşitli kaslardan oluşmaktadır. Vücudunuzda önemli sayılabilecek kas gruplarından yer almaktadır. El kaslarınızın ve el eklemlerinizin de çalışmasına yardımcı olan önemli kaslardandır. Önemli tendonlarla birleşerek, kol ve ellerinizin temel hareketlerini yapmanıza yardımcı olmaktadır. Bilek kas grubu kendi içinde 6’ya ayrılmaktadır. \n 1- Brachioradiallis  2- Extensor carpi radialis longus and brevis 3- Extensor digitorum 4- Extensor digit minimi 5- Extensor carpi  uinaris 6- Anconeus",
+  "bolge": "Bilek",
+  "antreman": [
+    "4 x max",
+    "3 x max",
+    "4 x max",
+    "3 x max"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 196,
+  "categoryId": 7,
+  "name": "Wrist Circles Stretch",
+  "img": "assets/gifs/bilek/wrist-circles-stretch.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Bilek kaslarınız, dirsek ekleminden başlayarak el bileğinize kadar uzanan çeşitli kaslardan oluşmaktadır. Vücudunuzda önemli sayılabilecek kas gruplarından yer almaktadır. El kaslarınızın ve el eklemlerinizin de çalışmasına yardımcı olan önemli kaslardandır. Önemli tendonlarla birleşerek, kol ve ellerinizin temel hareketlerini yapmanıza yardımcı olmaktadır. Bilek kas grubu kendi içinde 6’ya ayrılmaktadır. \n 1- Brachioradiallis  2- Extensor carpi radialis longus and brevis 3- Extensor digitorum 4- Extensor digit minimi 5- Extensor carpi  uinaris 6- Anconeus",
+  "bolge": "Bilek",
+  "antreman": [
+    "4 x max",
+    "3 x max",
+    "4 x max",
+    "3 x max"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 197,
+  "categoryId": 7,
+  "name": "Wrist Roller",
+  "img": "assets/gifs/bilek/wrist-roller.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Bilek kaslarınız, dirsek ekleminden başlayarak el bileğinize kadar uzanan çeşitli kaslardan oluşmaktadır. Vücudunuzda önemli sayılabilecek kas gruplarından yer almaktadır. El kaslarınızın ve el eklemlerinizin de çalışmasına yardımcı olan önemli kaslardandır. Önemli tendonlarla birleşerek, kol ve ellerinizin temel hareketlerini yapmanıza yardımcı olmaktadır. Bilek kas grubu kendi içinde 6’ya ayrılmaktadır. \n 1- Brachioradiallis  2- Extensor carpi radialis longus and brevis 3- Extensor digitorum 4- Extensor digit minimi 5- Extensor carpi  uinaris 6- Anconeus",
+  "bolge": "Bilek",
+  "antreman": [
+    "4 x max",
+    "3 x max",
+    "4 x max",
+    "3 x max"
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 0,
+    "categoryId": 7,
+    "name": "",
+    "img": "",
+    "ortak_antremanlar": "",
+    "aciklama": "",
+    "bolge": "",
+    "antreman": [
+      ""
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 198,
+    "categoryId": 8,
+    "name": "ABS Wheel Rollout",
+    "img": "assets/gifs/karin/abs-wheel-rollout.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+    "bolge": "Karın",
+    "antreman": [
+      "3 x max","","4 x max",""
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  }, {
+  "id": 199,
+  "categoryId": 8,
+  "name": "Barbell Seated Twist",
+  "img": "assets/gifs/karin/barbell-seated-twist.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 200,
+  "categoryId": 8,
+  "name": "Bench Side Bend",
+  "img": "assets/gifs/karin/bench-side-bend.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 201,
+  "categoryId": 8,
+  "name": "Bicyle Crunch",
+  "img": "assets/gifs/karin/bicycle-crunch.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 202,
+  "categoryId": 8,
+  "name": "Cable Side Band",
+  "img": "assets/gifs/karin/cable-side-band.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 203,
+  "categoryId": 8,
+  "name": "Captains Chair Leg Raise",
+  "img": "assets/gifs/karin/captains-chair-leg-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 204,
+  "categoryId": 8,
+  "name": "Cruch With Leg Raise",
+  "img": "assets/gifs/karin/cruch-with-leg-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 205,
+  "categoryId": 8,
+  "name": "Cruch",
+  "img": "assets/gifs/karin/crunch.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 206,
+  "categoryId": 8,
+  "name": "Decline Sit Up",
+  "img": "assets/gifs/karin/decline-sit-up.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 207,
+  "categoryId": 8,
+  "name": "Dumbbell Side Bend",
+  "img": "assets/gifs/karin/dumbbell-side-bend.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 208,
+  "categoryId": 8,
+  "name": "Flutter kicks",
+  "img": "assets/gifs/karin/flutter-kicks.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 209,
+  "categoryId": 8,
+  "name": "Front To Side Plank",
+  "img": "assets/gifs/karin/front-to-side-plank.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 210,
+  "categoryId": 8,
+  "name": "Hanging Knee Raises",
+  "img": "assets/gifs/karin/hanging-knee-raises.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 211,
+  "categoryId": 8,
+  "name": "Heel Touch",
+  "img": "assets/gifs/karin/heel-touch.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 212,
+  "categoryId": 8,
+  "name": "Kneeling Cable Crunch",
+  "img": "assets/gifs/karin/kneeling-cable-crunch.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 213,
+  "categoryId": 8,
+  "name": "Lying Leg Raise",
+  "img": "assets/gifs/karin/lying-leg-raise.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 214,
+  "categoryId": 8,
+  "name": "Lying Scissor Kick",
+  "img": "assets/gifs/karin/lying-scissor-kick.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 215,
+  "categoryId": 8,
+  "name": "Mountain Climber",
+  "img": "assets/gifs/karin/mountain-climber.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 216,
+  "categoryId": 8,
+  "name": "Oblique Floor Crunches",
+  "img": "assets/gifs/karin/oblique-floor-crunches.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 217,
+  "categoryId": 8,
+  "name": "Reverse Crunch",
+  "img": "assets/gifs/karin/reverse-crunch.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 218,
+  "categoryId": 8,
+  "name": "Russian Twist",
+  "img": "assets/gifs/karin/russian-twist.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 219,
+  "categoryId": 8,
+  "name": "Seated Bench Leg Pull In",
+  "img": "assets/gifs/karin/seated-bench-leg-pull-in.gif",
+  "ortak_antremanlar": "",
+  "aciklama": "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 220,
+    "categoryId": 8,
+    "name": "Seated Crunch Machine",
+    "img": "assets/gifs/karin/seated-crunch-machine.gif",
+    "ortak_antremanlar": "",
+    "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+    "bolge": "Karın",
+    "antreman": [
+      "3 x max","","4 x max",""
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },
+  {
+    "id": 221,
+    "categoryId": 8,
+    "name": "Side Bridge",
+    "img": "assets/gifs/karin/side-bridge.gif",
+    "ortak_antremanlar": "",
+    "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+    "bolge": "Karın",
+    "antreman": [
+      "3 x max","","4 x max",""
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },{
+  "id": 222,
+  "categoryId": 8,
+  "name": "Standing Cable Crunch",
+  "img": "assets/gifs/karin/standing-cable-crunch.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 223,
+  "categoryId": 8,
+  "name": "Standing Cable Low To High Twist",
+  "img": "assets/gifs/karin/standing-cable-low-to-high-twist.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 224,
+    "categoryId": 8,
+    "name": "Standing Cable Twist",
+    "img": "assets/gifs/karin/standing-cable-twist.gif",
+    "ortak_antremanlar": "",
+    "aciklama": "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+    "bolge": "Karın",
+    "antreman": [
+      "3 x max","","4 x max",""
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },{
+  "id": 225,
+  "categoryId": 8,
+  "name": "Teaser Pilates",
+  "img": "assets/gifs/karin/teaser-pilates.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},{
+  "id": 226,
+  "categoryId": 8,
+  "name": "Tuck Crunch",
+  "img": "assets/gifs/karin/tuck-crunch.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 227,
+    "categoryId": 8,
+    "name": "Twisting Hyperextension",
+    "img": "assets/gifs/karin/twisting-hyperextension.gif",
+    "ortak_antremanlar": "",
+    "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+    "bolge": "Karın",
+    "antreman": [
+      "3 x max","","4 x max",""
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  },{
+  "id": 228,
+  "categoryId": 8,
+  "name": "Weighted Front Plank",
+  "img": "assets/gifs/karin/weighted-front-plank.gif",
+  "ortak_antremanlar": "",
+  "aciklama":  "Core bölgesi, gövdemizi ve gövde iskeletimizi ayakta tutan büyük kas gruplarını ifade eder.Gövdede sağlıklı bir postür duruşuna sahip olmanın tek yolu bu bölgedeki kasların dengeli bir şekilde kuvvetlendirilmesidir.Gerek iş,gerek sosyal yaşantı bizleri sandalyelerde oturularak geçirilen saatlere mahkum eder.Günlük yaşantımız içerisinde farkında olmadan sürekli tekrarladığımız vücut duruş hataları ilerleyen zamanla kalıcı postür bozukluklarına neden olur.Dengeli ve kuvvetli gövde kasları,postür bozukluklarını önler ve varolanları da önemli derece iyileştirir.Core bölgesi kasları: tüm karın bölgesi kasları(siz packs olarak adlandırılan bölüm,yan karın kasları yani oblikler,kaburgaların yanları ve üzerinde yer alan serratus kasları),bel ve boyun omurgayı dik tutmakla ve refleksif rotasyonunu sağlamakla görevli olan multifidus ve erector spinae kaslarıdır.",
+  "bolge": "Karın",
+  "antreman": [
+    "3 x max","","4 x max",""
+  ],
+  "benzer_hareketler": [
+    ""
+  ]
+},
+  {
+    "id": 0,
+    "categoryId": 8,
+    "name": "",
+    "img": "",
+    "ortak_antremanlar": "",
+    "aciklama": "",
+    "bolge": "",
+    "antreman": [
+      ""
+    ],
+    "benzer_hareketler": [
+      ""
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+ [
+{
+"id": 1,
+"categoryName": "Göğüs",
+"seoUrl": "göğüs"
+},
+{
+"id": 2,
+"categoryName": "Kol",
+"seoUrl": "kol"
+},
+{
+     "id": 3,
+     "categoryName": "Arka Kol",
+     "seoUrl": "arka kol"
+},
+   {
+     "id": 4,
+     "categoryName": "Sırt",
+     "seoUrl": "sırt"
+   },
+{
+"id": 5,
+"categoryName": "Omuz",
+"seoUrl": "omuz"
+},
+{
+"id": 6,
+"categoryName": "Bacak",
+"seoUrl": "bacak"
+}, {
+     "id": 7,
+     "categoryName": "Bilek",
+     "seoUrl": "bilek"},
+{
+"id": 8,
+"categoryName": "Karın",
+"seoUrl": "karın"
+}
+
+ ]
